@@ -1,0 +1,1 @@
+export const App_NAME = process.env.NEXT_APP_NAME || 'Next.js App';
